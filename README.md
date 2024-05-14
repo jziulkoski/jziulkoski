@@ -1,5 +1,4 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Juliana Ziulkoski!</h1>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jziulkoski&color=yellow]" alt="Profile views" /> </p>
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -26,11 +25,11 @@
 </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jziulkoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="jziulkoski's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jziulkoski&layout=compact&langs_count=16&theme=dracula" alt="jziulkoski's most languages"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api?username=jziulkoski&show_icons=true&theme=dracula" alt="jziulkoski's stats"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jziulkoski&layout=compact&langs_count=16&theme=dracula" alt="jziulkoski's most languages"/>
 </p>
 
 <!---
