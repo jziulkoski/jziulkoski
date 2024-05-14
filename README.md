@@ -28,8 +28,8 @@
 <br>
 
 <p align="left">
-<img width="180em" src="https://github-readme-stats.vercel.app/api?username=jziulkoski&show_icons=true&theme=dracula" alt="jziulkoski's stats"/>
-<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jziulkoski&layout=compact&langs_count=16&theme=dracula" alt="jziulkoski's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=jziulkoski&show_icons=true&theme=dracula" alt="jziulkoski's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jziulkoski&layout=compact&langs_count=16&theme=dracula" alt="jziulkoski's most languages"/>
 </p>
 
 <!---
